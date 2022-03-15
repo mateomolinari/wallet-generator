@@ -1,4 +1,4 @@
 # Ethereum Wallet Generator
 
-Minimalist wallet generator using Svelte,
+Minimalist wallet generator using Svelte.
 
