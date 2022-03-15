@@ -109,5 +109,10 @@
   font-weight: 600;
 }
 
+.generator-button:hover {
+  background: #d61200cb;
+  text-decoration: none;
+}
+
 
 </style>
